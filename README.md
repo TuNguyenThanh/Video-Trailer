@@ -1,5 +1,5 @@
 # Video-Trailer
-Application Video Trailer React Native
+[React-Native] Application Video Trailer 
 
 <img src="https://github.com/TuNguyenThanh/Video-Trailer/blob/master/ImageDemo/1.png" width="414" height="736">
 <img src="https://github.com/TuNguyenThanh/Video-Trailer/blob/master/ImageDemo/2.png" width="414" height="736">
